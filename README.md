@@ -1,22 +1,13 @@
 # CS250-SDLC
 
-# Reflection 
-
-# Summarize the project and what problem it was solving.
-
-
-# What did you do particularly well?
+**How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**
+In order to implement user needs I need to understand the requirements, expectations, and goals of the users. Before I can translate these into a functional product, I need user stories because it turns the user requirements in a simple, concise, and understandable format. This helps break down complex requirements into manageable tasks and ensures I remain focused on delivering a quality product to the user.
 
 
-# Where could you enhance your code? How would these improvements make your code more efficient, secure, etc?
+**How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?**
+I approach developing programs by using a structured and iterative process like Agile, which focuses on flexibility, collaboration, and customer satisfaction. The agile processes I hope to incorporate into future work is using regular feedback, continuous improvement, and adaptive planning. With these, I can deliver high-quality products to the customer. 
 
 
-# Did you find writing any piece of this code challenging and how did you overcome this? What tools and/or resources are you adding to your support network?
-
-
-# To help me with this project, I used
-
-
-# What skills from this project will be particularly transferable to other projects and/or course work?
-
+**What does it mean to be a good team member in software development?**
+Just like playing on a sports team, being a good team member in software development involves using productive communication, collaboration, sharing knowledge and supporting others. A good team member is active in team meetings, provides constructive feedback, and respects the different perspectives.
 
