@@ -10,4 +10,3 @@ I approach developing programs by using a structured and iterative process like 
 
 **What does it mean to be a good team member in software development?**
 Just like playing on a sports team, being a good team member in software development involves using productive communication, collaboration, sharing knowledge and supporting others. A good team member is active in team meetings, provides constructive feedback, and respects the different perspectives.
-
